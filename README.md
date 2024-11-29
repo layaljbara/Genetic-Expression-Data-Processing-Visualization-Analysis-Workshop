@@ -11,6 +11,7 @@ This workshop is organized by the **ACCESS venture team** from **Engineers Witho
 **Duration**: 2 hours
 
 
+---
 
 ## Workshop Requirements
 
