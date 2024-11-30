@@ -28,6 +28,7 @@ While it is possible to install Python and Jupyter Lab separately, this is not r
 You can download Anaconda [here](https://www.anaconda.com/download).
 
 Alternatively, you can use the online version of jupyter on UBC website [https://ubc.syzygy.ca/].
+
 Additionally, we will use the following Python libraries in this workshop:
 - **scikit-learn**
 - **SciPy**
