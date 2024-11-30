@@ -3,7 +3,7 @@
 
 ## Workshop Information
 
-This workshop is organized by the **ACCESS venture team** from **Engineers Without Borders (EWB) at the University of British Columbia (UBC)**.
+This workshop is organized by the **ACCESS (Advancing Cervical Cancer Education and Screening in Sub Saharan Africa) venture team** from **Engineers Without Borders (EWB) at the University of British Columbia (UBC)**.
 
 **Time**: 5-7 pm  
 **Date**: 29 November  
